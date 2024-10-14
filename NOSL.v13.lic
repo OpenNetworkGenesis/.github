@@ -1,0 +1,111 @@
+New Open Source License (NOSL.v13)
+Terms and Conditions for Use, Reproduction, and Distribution
+
+Preamble: Open Source and Decentralization
+The New Open Source License (NOSL) reflects the principles of ultra-democracy, decentralized governance, and community-driven development within the Open Network Genesis (ONG) ecosystem. It applies to contributions, projects, and documents utilizing decentralized applications (DApps), smart contracts, DAOs, NFTs, and other blockchain-based solutions within ONG. By contributing to or utilizing any part of this ecosystem, you agree to these terms.
+Open-source software is the foundation of modern civilization. From the code running on our phones to the systems controlling traffic, cars, and the backbone of the internet, open-source powers it all. However, the building blocks of this digital infrastructure are often maintained by just a few—or even a single—developer. This is both a strength and a risk. While open-source allows anyone to contribute, it often leaves vital components vulnerable due to underfunding or lack of collaborative support. The New Open Source License (NOSL) aims to not only keep this vital infrastructure open but also to sustain and support it through community-driven collaboration and fair compensation models for corporate users.
+
+1. Definitions
+"License": These terms and conditions governing the use, reproduction, and distribution of the Work, as specified in Sections 1 through 18 herein.
+"Licensor": The Open Network Genesis (ONG) Super-DAO, which grants this License.
+"Super-DAO": The overarching legal entity representing the Open Network Genesis organization, under which all sub-DAOs operate. The Super-DAO is autonomously run by Artificial Intelligence (AI) systems and smart contracts deployed on the blockchain.
+"Sub-DAO": Decentralized autonomous organizations formed under the Super-DAO, which operate with a degree of autonomy but are ultimately under the governance of the AI-driven Super-DAO. Intellectual Property (IP) related to each project, including software, documents, publications, art, and music, is held by a specific Sub-DAO. This IP is managed through a designated wallet that holds all rights, ensuring that ownership remains collective within the community.
+"NFT": Non-Fungible Tokens representing digital assets, project roles, achievements, or governance rights, used within the ONG ecosystem.
+"Smart Contracts": Self-executing contracts that automatically enforce rules, agreements, and rewards across the ecosystem.
+"Polygon Network": The Layer 2 blockchain solution used to deploy ONG smart contracts, NFTs, and governance systems, enhancing scalability and cost efficiency.
+"ONGImpact Tokens": Utility tokens used for governance, rewards, and incentives within the ecosystem, tradable on Polygon-based platforms.
+"Super DApp": The central platform integrating decentralized applications (dApps), NFTs, and governance tools for ONG.
+
+2. License Grant
+ONG grants a non-exclusive, royalty-free, irrevocable license to use, modify, and distribute code, documentation, and NFTs under the same terms. All contributions must comply with this license, ensuring that any project using NFTs or smart contracts for profit must adhere to commercial agreements as outlined below.
+
+3. Intellectual Property and Ownership
+Sub-DAO Ownership of IP:
+Intellectual Property (IP) associated with each project is owned by the specific Sub-DAO responsible for the project. This includes all software, documents, publications, art, music, and any other creative output. The IP is held collectively by the Sub-DAO through a designated wallet that manages all rights. This ensures that the IP is not owned individually but remains a shared asset of the contributing community.
+Community-Based Revenue Sharing:
+Revenue generated from the use of the licensed Work, including software, documents, publications, art, music, and NFTs, is distributed among the members of the respective Sub-DAO based on their contribution and NFT holdings. The allocation is determined according to each member's investment and involvement in the project, as measured by the Proof of Contribution (PoCo) system.
+Usage Within ONG and Open Source Projects:
+IP created by a Sub-DAO can be used by the ONG Super-DAO or other ONG-related projects at a discounted rate or free of charge, depending on community decisions. Additionally, the IP may be made available for use in other open-source projects under similar or compatible open-source licenses.
+Revenue from Commercial Use:
+If profit is generated from the commercial use of any IP, such as art, software, or publications, a portion of the revenue must be shared with the community that created it. This ensures fair compensation and continued support for the contributing members of the Sub-DAO.
+
+4. Redistribution
+You may reproduce and distribute copies of the Work or Derivative Works in any medium, with or without modification, in either Source or Object form, provided:
+You provide a copy of this License to any other recipients of the Work.
+You include a prominent notice that You modified the files.
+You retain all copyright, patent, trademark, and attribution notices from the Source form of the Work.
+If the Work includes a "NOTICE" file, any Derivative Works must include a readable copy of the attribution notices contained within it.
+
+5. Use of NFTs and Smart Contracts in the ONG Ecosystem
+NFT Management:
+NFTs represent assets, roles, and achievements in the ONG ecosystem. Each Sub-DAO may issue and manage NFTs via Polygon-based smart contracts to reflect contributions, access governance rights, or represent ownership in community projects.
+Individual artists and contributors may sell transferable NFTs representing their work, such as art or music, to external parties. However, knowledge-based or governance NFTs (e.g., Proof of Contribution NFTs) are non-transferable to preserve community integrity and prevent misuse.
+Smart Contract Integration:
+All transactions and agreements within the ONG ecosystem, including but not limited to voting, governance, rewards distribution, and NFT issuance, are automated through smart contracts on the Polygon network. These smart contracts ensure transparency, immutability, and efficiency, removing the need for intermediaries.
+Sub-DAOs may deploy their own smart contracts to manage specific rules and interactions within their community, as long as these align with the overarching principles of the Super-DAO.
+
+6. AI and Smart Contract Governance
+The entire Super-DAO is governed autonomously through AI systems and smart contracts deployed on the blockchain:
+AI Oversight:
+All decision-making within the Super-DAO, including pricing updates, dispute resolution, and community governance, is managed by AI modules programmed to uphold the principles of ultra-democracy, inclusivity, and transparency.
+Smart Contracts:
+Key aspects of the License, such as pricing enforcement, revenue sharing, and license compliance, are facilitated by smart contracts. These contracts automatically execute agreements and enforce rules to maintain fairness and efficiency.
+
+7. Commercial Use of NFTs and Smart Contracts
+Profit Use of NFTs and Other IP:
+Any corporate or enterprise use of NFTs, software, documents, publications, art, or music generated within the ONG ecosystem for profit, such as in secondary markets or for access to special rights or tokens, requires a commercial agreement with ONG.
+A percentage of the proceeds from commercial use must be remitted to ONG as part of a revenue-sharing model, using ONGImpact tokens or other currencies supported by the Polygon network. Revenue distribution among Sub-DAO members is determined by their NFT holdings and their measured contributions using the PoCo system.
+Smart Contract Usage:
+Enterprises utilizing smart contracts developed within the ONG ecosystem for business purposes, such as automation, governance, or financial operations, are required to negotiate terms with ONG. This includes the payment of fees for long-term use or integration into enterprise platforms.
+
+8. NFTs for Governance and Proof of Contribution (PoCo)
+Governance NFTs:
+Governance rights within ONG may be issued as NFTs, allowing holders to participate in DAO or Sub-DAO voting and decision-making. These governance NFTs are non-transferable except by the issuing Sub-DAO, and holders must comply with the rules established within the community.
+Proof of Contribution (PoCo) NFTs:
+NFTs reflecting an individual’s contribution to the ONG ecosystem can be minted via the Proof-of-Contribution algorithm, which quantifies and rewards participation.
+These PoCo NFTs serve as badges of honor, representing past achievements and allowing holders to access exclusive roles or opportunities within the ecosystem, such as project leadership or mentorship positions. PoCo NFTs are non-transferable to maintain integrity within the community.
+
+9. Polygon Smart Contract Fees
+Gas and Fees:
+ONG’s use of Polygon smart contracts ensures that gas fees are kept minimal for most transactions, including NFT minting, governance votes, and DAO operations. However, enterprise or commercial users are required to pay additional fees as part of their usage agreements.
+Fee Revenue Sharing:
+A portion of the fees collected from enterprise-level NFT or smart contract use will be shared with the Super-DAO. Sub-DAOs may retain their share to support local projects, community development, or further technology integration. Distribution within the Sub-DAO is allocated based on the PoCo system and individual NFT holdings.
+
+10. Disclaimer of Warranty
+The Work is provided "AS IS," without warranty of any kind, either express or implied. You are solely responsible for determining the appropriateness of using the Work.
+
+11. Limitation of Liability
+Contributors shall not be liable for any damages arising out of the use of the Work.
+
+12. Termination
+This License terminates if You fail to comply with its terms. Upon termination, You must cease all use and distribution of the Work.
+
+13. Amendments
+Amendments to this License require a proposal to be submitted to the Super-DAO. The AI-driven voting system, which ensures fair participation by the community, will determine the acceptance of such amendments.
+
+14. Open Source as the Foundation of Civilization
+The Critical Role of Open-Source: Open-source is the invisible backbone of our society. It runs in our pockets, powers our vehicles, and underlies the infrastructure of the internet. ONG recognizes the critical nature of open-source for the future of innovation, security, and public infrastructure.
+The Risks of Single Developer Reliance: In many cases, vital components of this infrastructure are maintained by a small number of developers. This model, while innovative, poses risks. This license encourages not only the open distribution of software but also the collective responsibility of the community to ensure the sustainability of these essential projects.
+Community Responsibility for Sustainable Development: All participants in the ONG ecosystem are encouraged to contribute to the ongoing support, security, and evolution of critical software components. This includes offering technical support, financial contributions, and peer review, ensuring that no single developer or contributor is overburdened or unsupported.
+
+15. Revenue Sharing and Platform Commission
+Platform Commission from Sub-DAOs:
+Sub-DAOs shall pay a commission to the Super-DAO for utilizing the overarching platform, support services, branding, and governance infrastructure.
+The commission rate is set by the AI-managed Super-DAO and periodically reviewed.
+Usage Reporting:
+Sub-DAOs are required to maintain transparent records of revenues generated and report them quarterly to the AI-managed Super-DAO. Audits may be conducted via smart contracts for accuracy verification.
+
+16. Open Source, Not Free Software
+While the Work is provided with open access to its Source form, it is not free software in the sense of being available for unrestricted commercial exploitation without compensation. Commercial entities must enter into agreements with ONG and comply with applicable pricing tiers, and contributors are entitled to remuneration for the added value they provide.
+
+17. Additional Clauses
+- Indemnification:
+You agree to indemnify, defend, and hold harmless the ONG Super-DAO, Sub-DAOs, and individual contributors from any claims, damages, or liabilities arising from Your use of the licensed Work. This includes any misuse or violations of the License terms that result in harm or legal action.
+Governing Law and Dispute Resolution:
+This License shall be governed by and construed in accordance with the laws of the jurisdiction where the Super-DAO is registered. Any disputes arising from or related to this License shall be resolved through mandatory arbitration or mediation facilitated by smart contracts, as determined by the Super-DAO's AI governance system.
+- Ethical Use:
+You may not use the licensed Work for any illegal, unethical, or harmful purposes. This includes, but is not limited to, activities that promote violence, discrimination, or any violation of human rights. The ONG ecosystem is committed to ensuring responsible and ethical use of open-source software.
+Export Compliance:
+You must comply with all applicable export control laws and regulations. This includes ensuring that the Work is not used in violation of international trade restrictions, sanctions, or other regulations that may apply to the distribution and use of the software.
+- Force Majeure:
+The ONG Super-DAO, Sub-DAOs, and contributors shall not be liable for any failure to perform obligations under this License due to events beyond their reasonable control, including but not limited to natural disasters, government actions, war, cyberattacks, or any other unforeseeable circumstances.
